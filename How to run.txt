@@ -1,0 +1,9 @@
+npm start
+
+go to browser and input 
+
+localhost:(portnumber)
+
+To terminate the server
+
+'ctrl + c' in the termianl 
